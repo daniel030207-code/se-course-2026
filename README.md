@@ -1,6 +1,4 @@
 # se-course-2026
-
-LEE haesung 
-
+LEE haesung
+2022301064
 A+
-
